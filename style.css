@@ -44,3 +44,20 @@ button {
   font-weight: bold;
   text-align: center;
 }
+
+/* Cores: O JavaScript escolhe qual classe usar */
+.reprovado {
+  color: #fc1313;
+}
+
+.recuperacao {
+  color: #fcb213;
+}
+
+.aprovado {
+  color: #088345;
+}
+
+.erro {
+  color: #fc1313;
+}
